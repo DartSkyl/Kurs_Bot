@@ -1,0 +1,11 @@
+/.env
+/.venv/
+/*.log
+/.idea/*
+/__pycache__/
+handlers/__pycache__/
+/test.py
+/*.session
+/downloads/
+/draft.py
+/*.txt
