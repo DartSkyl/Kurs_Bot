@@ -9,6 +9,7 @@ else:
     load_dotenv()
 
 BOT_TOKEN = os.getenv('bot_token')
+WEBHOOK = os.getenv('webhook_url')
 
 logging.basicConfig(
     filename='bot.log',
